@@ -136,10 +136,6 @@ body {
 	width: 200px;
 }
 
-#close {
-	background: #f53649 !important;
-}
-
 .btn {
 	display: flex;
 	gap: 10px;
